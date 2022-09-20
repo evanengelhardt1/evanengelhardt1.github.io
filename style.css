@@ -20,9 +20,11 @@ h4 {
 evanphoto1 {
   float: left;
   margin: 10px;
+  width: 300px;
 }
 
 evanphoto2 {
   float: right;
   margin: 10px;
+  width: 300px;
 }
