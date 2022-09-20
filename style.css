@@ -17,13 +17,13 @@ h4 {
   margin-left: 20px;
 }
 
-evanphoto1 {
+#evanphoto1 {
   float: left;
   margin: 10px;
   width: 300px;
 }
 
-evanphoto2 {
+#evanphoto2 {
   float: right;
   margin: 10px;
   width: 300px;
