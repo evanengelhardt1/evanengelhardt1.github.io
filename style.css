@@ -16,3 +16,13 @@ h4 {
   color: #E5E7EC;
   margin-left: 20px;
 }
+
+evanphoto1 {
+  float: left;
+  margin: 10px;
+}
+
+evanphoto2 {
+  float: right;
+  margin: 10px;
+}
